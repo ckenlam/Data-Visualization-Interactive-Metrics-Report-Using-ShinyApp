@@ -5,3 +5,4 @@ username: **admin**
 
 password: **adminpassword**
 
+![Image of the report](https://github.com/ckenlam/Interactive-Metrics-Report-Using-ShinyApp/blob/master/POC.jpeg?raw=true)

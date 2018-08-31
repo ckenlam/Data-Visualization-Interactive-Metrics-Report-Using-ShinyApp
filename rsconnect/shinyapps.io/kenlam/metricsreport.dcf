@@ -1,0 +1,10 @@
+name: metricsreport
+title: MetricsReport
+account: kenlam
+server: shinyapps.io
+appId: 156304
+bundleId: 1239281
+url: https://kenlam.shinyapps.io/metricsreport/
+when: 1519588714.42585
+asMultiple: FALSE
+asStatic: FALSE
